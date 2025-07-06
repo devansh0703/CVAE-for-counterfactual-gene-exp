@@ -1,4 +1,4 @@
----
+
 
 # CausalCounterfactualVAE: Disentangling Gene Expression for Counterfactual Prediction
 
@@ -103,4 +103,4 @@ This project is built upon the foundational work in Variational Autoencoders and
 *   [lovelyscientist/rna-seq-vae](https://github.com/lovelyscientist/rna-seq-vae) - A similar project using CVAE on GTEx data, conditioned on tissue and age.
 *   Related research on disentangled representations and causal inference in generative models for omics data.
 
----
+
